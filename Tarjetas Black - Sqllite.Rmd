@@ -1,9 +1,10 @@
 ---
 title: "Tarjetas Black"
-output: html_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
+if (!require("knitr")) install.packages("knitr")
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
