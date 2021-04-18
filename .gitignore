@@ -1,1 +1,4 @@
-.R*
+.RData
+.Rhistory
+*.html
+.Rproj.user
